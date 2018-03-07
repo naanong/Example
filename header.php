@@ -27,7 +27,7 @@
     <nav class="navbar navbar-light" style="background-color: white;">
       <div class="container">
           <a class="navbar-brand" href="#">
-            <img  src="logo.png" width="50" height="50" class="d-inline-block align-top" alt="">
+            <img  src="logo.png" width="30" height="30" class="d-inline-block align-top" alt="">
             <font size="6">What <b>Event</b></font>
           </a>
       </div>
